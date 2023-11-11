@@ -40,7 +40,7 @@ body {
 
 a {  
   text-decoration: none;
-  color: white;
+  color: #000000;
 }
 
 a:hover {  
@@ -709,6 +709,7 @@ section {
 
 .footer .credits .item {
   text-align: left;
+  color: #000000;
 }
 
 @media (max-width: 1200px){
